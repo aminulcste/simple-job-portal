@@ -1,0 +1,45 @@
+﻿@model IEnumerable<OnlineJobPortal.Models.Job>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Change if you use a different layout
+    
+}
+<h2>Available Jobs</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Location</th>
+            <th>Posted On</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var job in Model)
+            {
+                <tr>
+                    <td>
+                        <a asp-controller="JobSeeker" asp-action="Details" asp-route-id="@job.Id">
+                            @job.Title
+                        </a>
+                    </td>
+                    <td>@job.Location</td>
+                    <td>@job.PostedDate.ToShortDateString()</td>
+                    <td>
+                        <a asp-controller="JobSeeker" asp-action="Apply" asp-route-id="@job.Id" class="btn btn-success btn-sm">
+                            Apply
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">No jobs found.</td>
+            </tr>
+        }
+    </tbody>
+</table>

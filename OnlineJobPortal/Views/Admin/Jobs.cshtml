@@ -1,0 +1,32 @@
+﻿@model IEnumerable<OnlineJobPortal.Models.Job>
+
+<h2>All Posted Jobs</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Location</th>
+            <th>Posted On</th>
+            <th>Employer</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var job in Model)
+        {
+            <tr>
+                <td>@job.Title</td>
+                <td>@job.Location</td>
+                <td>@job.PostedDate.ToShortDateString()</td>
+                <td>@job.Employer?.FullName</td>
+                <td>
+                    <a asp-action="EditJob" asp-route-id="@job.Id" class="btn btn-primary btn-sm">Edit</a>
+                    <form asp-action="DeleteJob" asp-route-id="@job.Id" method="post" class="d-inline" onsubmit="return confirm('Are you sure?');">
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

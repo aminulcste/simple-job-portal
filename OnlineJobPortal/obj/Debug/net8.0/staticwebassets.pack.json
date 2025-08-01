@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OnlineJobPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineJobPortal.dnsao9yii0.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\01421e9d-142b-4f10-ae8e-a401f4150015.pdf",
+      "PackagePath": "staticwebassets\\uploads\\01421e9d-142b-4f10-ae8e-a401f4150015.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\0348882d-1fdb-4554-b895-53065fbaecc8.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0348882d-1fdb-4554-b895-53065fbaecc8.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\1396c337-38c5-4796-8adb-644fa73b87f8.docx",
+      "PackagePath": "staticwebassets\\uploads\\1396c337-38c5-4796-8adb-644fa73b87f8.docx"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\154f7995-8d1d-4ba1-99d5-5545da70575a.pdf",
+      "PackagePath": "staticwebassets\\uploads\\154f7995-8d1d-4ba1-99d5-5545da70575a.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\1a613e66-7969-4144-b073-cd1f12b8625b.docx",
+      "PackagePath": "staticwebassets\\uploads\\1a613e66-7969-4144-b073-cd1f12b8625b.docx"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\363c63d7-4dd9-4f47-88cc-9e0ecd7fcd58.docx",
+      "PackagePath": "staticwebassets\\uploads\\363c63d7-4dd9-4f47-88cc-9e0ecd7fcd58.docx"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\5e260d8b-2fd1-4587-9d10-9ad1e1a201c4.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5e260d8b-2fd1-4587-9d10-9ad1e1a201c4.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\664d68cf-5483-4dce-b062-12889c55ff62.pdf",
+      "PackagePath": "staticwebassets\\uploads\\664d68cf-5483-4dce-b062-12889c55ff62.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\73afb93a-658e-4068-a4ef-aecce65dd547.pdf",
+      "PackagePath": "staticwebassets\\uploads\\73afb93a-658e-4068-a4ef-aecce65dd547.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\83515655-fa26-4be9-8da7-a23878db3ade.pdf",
+      "PackagePath": "staticwebassets\\uploads\\83515655-fa26-4be9-8da7-a23878db3ade.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\a9e16e8b-b54c-4b13-8927-ac2d9d2edcf1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\a9e16e8b-b54c-4b13-8927-ac2d9d2edcf1.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\ad902f4c-f8db-4b0b-af09-809dd2d652e0.docx",
+      "PackagePath": "staticwebassets\\uploads\\ad902f4c-f8db-4b0b-af09-809dd2d652e0.docx"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\bffe911d-0440-400d-895d-14fa31267c9f.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bffe911d-0440-400d-895d-14fa31267c9f.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\e99764ff-31d2-417b-906b-84c370bf29b7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\e99764ff-31d2-417b-906b-84c370bf29b7.pdf"
+    },
+    {
+      "Id": "E:\\online job portal\\OnlineJobPortal\\OnlineJobPortal\\wwwroot\\uploads\\f1afd510-b112-4fbd-96a9-90d6010d4e6c.pdf",
+      "PackagePath": "staticwebassets\\uploads\\f1afd510-b112-4fbd-96a9-90d6010d4e6c.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineJobPortal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineJobPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineJobPortal.props",
+      "PackagePath": "build\\OnlineJobPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineJobPortal.props",
+      "PackagePath": "buildMultiTargeting\\OnlineJobPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineJobPortal.props",
+      "PackagePath": "buildTransitive\\OnlineJobPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

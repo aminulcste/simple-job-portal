@@ -1,0 +1,24 @@
+﻿@model OnlineJobPortal.Models.Job
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Change if you use a different layout
+    ViewBag.Title = "Job Details";
+}
+
+<h2 class="mt-4 mb-3">Job Details</h2>
+
+<div class="card">
+    <div class="card-body">
+        <h4 class="card-title">@Model.Title</h4>
+        <p><strong>Location:</strong> @Model.Location</p>
+       
+        <p><strong>Posted On:</strong> @Model.PostedDate.ToShortDateString()</p>
+
+        <hr />
+        <p><strong>Description:</strong></p>
+        <p>@Model.Description</p>
+
+        <a asp-action="Dashboard" asp-controller="JobSeeker" class="btn btn-secondary mt-3">Back to Listings</a>
+
+    </div>
+</div>

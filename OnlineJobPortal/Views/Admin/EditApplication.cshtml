@@ -1,0 +1,24 @@
+﻿@model OnlineJobPortal.Models.JobApplication
+
+<h2>Edit Application Status</h2>
+
+<div class="mb-3">
+    <strong>Job:</strong> @Model.Job?.Title <br />
+    <strong>Applicant:</strong> @Model.JobSeeker?.FullName <br />
+    <strong>Email:</strong> @Model.JobSeeker?.Email <br />
+    <strong>CV:</strong> <a href="@Model.CVPath" target="_blank">View CV</a> <br />
+</div>
+
+<form asp-action="EditApplication" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <div class="mb-3">
+        <label class="form-label">Status</label>
+        <select name="status" class="form-select">
+            <option value="Pending" selected="@((Model.Status == "Pending") ? "selected" : "")">Pending</option>
+            <option value="Accepted" selected="@((Model.Status == "Accepted") ? "selected" : "")">Accepted</option>
+            <option value="Rejected" selected="@((Model.Status == "Rejected") ? "selected" : "")">Rejected</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Update Status</button>
+</form>

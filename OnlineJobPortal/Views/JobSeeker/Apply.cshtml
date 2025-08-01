@@ -1,0 +1,14 @@
+﻿@model OnlineJobPortal.Models.Job
+
+<h2>Apply for @Model.Title</h2>
+<p><strong>Location:</strong> @Model.Location</p>
+<p><strong>Description:</strong></p>
+<p>@Model.Description</p>
+
+<form asp-action="Apply" asp-route-id="@Model.Id" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label for="cvFile" class="form-label">Upload CV (PDF/DOC)</label>
+        <input type="file" class="form-control" name="cvFile" id="cvFile" required />
+    </div>
+    <button type="submit" class="btn btn-success">Submit Application</button>
+</form>

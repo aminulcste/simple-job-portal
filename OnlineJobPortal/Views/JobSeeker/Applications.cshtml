@@ -1,0 +1,42 @@
+﻿@model IEnumerable<OnlineJobPortal.Models.JobApplication>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h2>Your Applications</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Job Title</th>
+            <th>Applied On</th>
+            <th>Status</th>
+            <th>CV</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var app in Model)
+        {
+            <tr>
+                <td>@app.Job.Title</td>
+                <td>@app.AppliedDate.ToShortDateString()</td>
+                <td>
+                    @if (app.Status == "Pending")
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+                    }
+                    else if (app.Status == "Accepted")
+                    {
+                        <span class="badge bg-success">Accepted</span>
+                    }
+                    else if (app.Status == "Rejected")
+                    {
+                        <span class="badge bg-danger">Rejected</span>
+                    }
+                </td>
+                <td><a href="@app.CVPath" target="_blank">View CV</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

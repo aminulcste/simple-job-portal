@@ -1,0 +1,49 @@
+﻿@model IEnumerable<OnlineJobPortal.Models.JobApplication>
+
+<h2>All Applications</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Job Title</th>
+            <th>Applicant</th>
+            <th>Email</th>
+            <th>CV</th>
+            <th>Applied Date</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var app in Model)
+        {
+            <tr>
+                <td>@app.Job?.Title</td>
+          
+                <td>@app.JobSeeker?.Email</td>
+                <td><a href="@app.CVPath" target="_blank">View CV</a></td>
+                <td>@app.AppliedDate.ToShortDateString()</td>
+                <td>
+                    @if (app.Status == "Pending")
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+                    }
+                    else if (app.Status == "Accepted")
+                    {
+                        <span class="badge bg-success">Accepted</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Rejected</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="EditApplication" asp-route-id="@app.Id" class="btn btn-primary btn-sm">Edit</a>
+                    <form asp-action="DeleteApplication" asp-route-id="@app.Id" method="post" class="d-inline" onsubmit="return confirm('Delete this application?');">
+                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

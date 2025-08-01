@@ -1,0 +1,20 @@
+﻿<!-- Views/Employer/DeleteJob.cshtml -->
+@model OnlineJobPortal.Models.Job
+@{
+    Layout = "~/Views/Shared/EmployerLayout.cshtml";
+    ViewData["Title"] = "Delete Job";
+}
+<h2>Delete Job</h2>
+
+<h4>Are you sure you want to delete this job?</h4>
+
+<div>
+    <h5>@Model.Title</h5>
+    <p>@Model.Description</p>
+</div>
+
+<form asp-action="DeleteJob" asp-route-id="@Model.Id" method="post">
+    @Html.AntiForgeryToken()
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Dashboard" class="btn btn-secondary">Cancel</a>
+</form>

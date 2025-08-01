@@ -1,0 +1,26 @@
+﻿@model IEnumerable<OnlineJobPortal.Models.Notification>
+
+@{
+    ViewData["Title"] = "Notifications";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Or your custom layout
+}
+
+<h2>Notifications</h2>
+
+@if (!Model.Any())
+{
+    <p>You have no notifications.</p>
+}
+else
+{
+    <ul class="list-group">
+        @foreach (var notification in Model)
+        {
+            <li class="list-group-item">
+                <strong>@notification.Title</strong><br />
+                @notification.Message <br />
+                <small class="text-muted">@notification.NotificationDate.ToString("g")</small>
+            </li>
+        }
+    </ul>
+}
